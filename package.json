@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "description": "This is whatsapp-clone backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grumpyyash/WhatsApp-Clone.git"
+  },
+  "author": "Yash Vardhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Grumpyyash/WhatsApp-Clone/issues"
+  },
+  "homepage": "https://github.com/Grumpyyash/WhatsApp-Clone#readme"
+}
