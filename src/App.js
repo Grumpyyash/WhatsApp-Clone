@@ -14,7 +14,7 @@ function App() {
        <Chat />
       </Route>
       <Route path="/">
-        {/* <Chat /> */}
+         <Chat />
       </Route>
      </Switch>    
     </Router>
