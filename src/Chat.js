@@ -7,6 +7,7 @@ import MicIcon from '@material-ui/icons/Mic';
 import { useParams } from "react-router-dom";
 import db from "./firebase";
 
+
 function Chat() {
   const [seed, setSeed] = useState("");
   const [input, setInput] = useState("");
@@ -30,8 +31,6 @@ function Chat() {
      console.log(input);
      setInput("");
   };
-
-
 
     return (
         <div className="chat">

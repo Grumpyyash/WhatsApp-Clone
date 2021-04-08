@@ -19,6 +19,7 @@ function SidebarChat({id, name, addNewChat}) {
             })
         }
     };
+    
 
     return !addNewChat ? (
         <Link to={`/rooms/${id}`}>
