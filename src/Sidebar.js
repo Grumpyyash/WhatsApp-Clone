@@ -23,6 +23,7 @@ function Sidebar() {
        })
       ))
     ))
+    console.log(rooms);
   }, [])
 
     return (
