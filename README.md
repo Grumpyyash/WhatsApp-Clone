@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Grumpyyash/Webiu/blob/master/static/images/logo.png">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
